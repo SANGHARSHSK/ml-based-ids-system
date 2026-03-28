@@ -542,9 +542,9 @@ elif page == "ℹ️ About":
         ## Sangharsh Kamble
         **Final Year BE — Computer Science Engineering**
         📍 Maharashtra, India
-        📧 sangharsh.kamble@email.com
-        🔗 [GitHub](https://github.com/sangharshkamble)
-        🔗 [LinkedIn](https://linkedin.com/in/sangharshkamble)
+        📧 kamblesangharsh500@email.com
+        🔗 [GitHub](https://github.com/SANGHARSHSK)
+        🔗 [LinkedIn](https://linkedin.com/in/kamble-sangharsh)
         """)
 
     st.markdown("---")
