@@ -1,8 +1,9 @@
 pandas
 numpy
-scikit-learn
-streamlit
-plotly
-scipy
 matplotlib
 seaborn
+scikit-learn
+streamlit==1.28.0
+plotly
+scipy
+altair==4.2.2
