@@ -1,0 +1,17 @@
+# Data files (too large for GitHub)
+data/network_traffic.csv
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
