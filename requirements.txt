@@ -1,9 +1,10 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+pandas==2.1.0
+numpy==1.24.3
+matplotlib==3.7.2
+seaborn==0.12.2
+scikit-learn==1.3.0
 streamlit==1.28.0
-plotly
-scipy
+plotly==5.17.0
+scipy==1.11.3
 altair==4.2.2
+pillow==10.0.0
